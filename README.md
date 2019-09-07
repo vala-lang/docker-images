@@ -21,3 +21,5 @@ Target distros:
     - rawhide (32)
 - Alpine
     - latest
+
+Once these have been created, the next goal is to become Docker-official, so that users can do `docker run --rm -it vala:latest`.
