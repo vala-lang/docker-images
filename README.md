@@ -7,8 +7,7 @@
 The eventual goal of this repo is to provide high quality, up-to-date, docker images with multiple compiler versions and distros:
 
 Target vala versions:
-- Current stable (0.46.0)
-- LTS (0.40.16)
+- Current stable LTS (0.56.18)
 
 Target distros:
 - Ubuntu
@@ -19,8 +18,8 @@ Target distros:
     - Juno
     - Circe
 - Fedora
-    - latest (30)
-    - rawhide (32)
+    - latest (42)
+    - rawhide (43)
 - Alpine
     - latest
 
