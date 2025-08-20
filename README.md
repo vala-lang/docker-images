@@ -14,8 +14,10 @@ Target distros:
 - Ubuntu
     - bionic (18.04)
     - disco (19.04)
-- Elementary
+    - noble (24.04)
+- elementary
     - Juno
+    - Circe
 - Fedora
     - latest (30)
     - rawhide (32)
